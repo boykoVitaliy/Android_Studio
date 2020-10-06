@@ -1,0 +1,4 @@
+include ':applicaion_for_univercity'
+include ':myapplication'
+include ':app'
+rootProject.name = "My Application"
